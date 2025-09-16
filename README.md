@@ -1,6 +1,6 @@
 # Justin Im
 
-I'm a Systems Design Engineering student at the University of Waterloo and a passionate Software Engineer building full-stack applications.
+I'm a Systems Design Engineering student at the University of Waterloo and passionate Software Engineer.
 
 ## 🛠 Skills
 
