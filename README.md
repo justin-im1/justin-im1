@@ -2,7 +2,7 @@
 
 I'm a Systems Design Engineering student at the University of Waterloo and passionate Software Engineer.
 
-## 🛠 Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -26,13 +26,13 @@ I'm a Systems Design Engineering student at the University of Waterloo and passi
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 💼 Experience
+## Experience
 
 - **Software Engineer Intern** – Constant Contact | *May 2025 – Aug 2025*  
 - **Software Developer Intern** – University Health Network | *Sep 2024 – Dec 2024*  
 - **UI Developer Intern** – Voxer | *Jan 2024 – Apr 2024*  
 
-## 📫 Connect
+## Connect
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin.im@uwaterloo.ca)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justin-im1)
